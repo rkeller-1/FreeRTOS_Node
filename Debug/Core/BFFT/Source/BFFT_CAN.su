@@ -1,0 +1,7 @@
+BFFT_CAN.c:29:8:s8CANInit	16	static
+BFFT_CAN.c:54:8:s8CANSendMessage	16	static
+BFFT_CAN.c:69:8:s8CANReceiveMessage	24	static
+BFFT_CAN.c:104:15:s8CANGeneralInit	16	static
+BFFT_CAN.c:121:15:s8CANTxInit	4	static
+BFFT_CAN.c:133:15:s8CANFilterInit	16	static
+BFFT_CAN.c:154:13:vCANSetStatusLED	16	static

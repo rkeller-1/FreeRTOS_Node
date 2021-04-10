@@ -1,0 +1,3 @@
+ProjectThreads.c:15:6:vThreadInit	16	static
+ProjectThreads.c:23:6:vThreadCanSendMessage	24	static
+ProjectThreads.c:34:6:vThreadSystemAlive	24	static

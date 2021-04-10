@@ -1,0 +1,5 @@
+freertos.c:88:13:vApplicationIdleHook	4	static
+freertos.c:107:6:MX_FREERTOS_Init	8	static
+freertos.c:155:6:StartDefaultTask	16	static
+freertos.c:173:6:vThreadCANSendMessage	24	static
+freertos.c:195:6:vThreadLEDSystemAlive	24	static
